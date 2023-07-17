@@ -13,7 +13,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [Author](#author)
 
 ## Overview
-Los archivos corresponden a la práctica del desarrollo web frontend; es un desafíó tomado de la plataforma "Frontend Mentor".  En esta oportunidad se completó con metodología mobile-first responsive y utilizando CSS Flexbox
+Los archivos corresponden a la práctica del desarrollo web frontend; es un desafío tomado de la plataforma "Frontend Mentor".  En esta oportunidad se completó con metodología mobile-first responsive y utilizando CSS Flexbox a modo de poner en practica los conocimientos.
 
 ### Links
 
